@@ -6,10 +6,10 @@ void main(int argc, char* argv[])
 
 	Game juego(800, 600, "Ventana");
 	juego.Go();
-<<<<<<< HEAD
 
-=======
+
+
 	//gitcheck
->>>>>>> gitcheck
+
 	return;
 }
